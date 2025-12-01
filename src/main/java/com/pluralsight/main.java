@@ -7,7 +7,7 @@ public class main {
 
         String url = "jdbc:mysql://localhost:3306/northwind";
         String username = "root";
-        String password = "";
+        String password = "yearup24";
 
         Connection connection = DriverManager.getConnection(url, username, password);
         // create statement
